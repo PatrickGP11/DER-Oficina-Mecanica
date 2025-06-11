@@ -1,3 +1,3 @@
 # DER-Oficina-Mecanica
 
-<img src= "./Oficina-Mecânica.PNG">
+<img src= "./Oficina-Mecânica.png">
